@@ -2,15 +2,6 @@
 
 In the previous lesson, we discovered that different display types have unique box models, and we can modify the box calculation by changing the `display` property. CSS has two box types: `block` and `inline` boxes, which determine element behavior and interaction. The `display` property controls how HTML elements appear on the webpage. We will explore its various options further in this lesson.
 
-### Lesson overview
-
-This section contains a general overview of topics that you will learn in this lesson.
-
-- You'll learn about "Normal flow".
-- You'll learn the difference between `block` and `inline` elements.
-- You'll learn which elements default to `block` and which elements default to `inline`.
-- You'll learn what divs and spans are.
-
 ### Block vs inline
 
 Most of the elements that you have learned about so far are block elements.  In other words, their default style is `display: block`. <span id="block-inline-difference"></span>By default, block elements will appear on the page stacked atop each other, each new element starting on a new line.
